@@ -15,11 +15,11 @@
       "date": "2020-06-05T07:10:38.502Z"
     },
     {
+      "id": 3,
       "message": "Changed network card on server 001",
       "attention": false,
-      "tech": "Sam Smith",
-      "date": "2020-06-05T02:19:05.807Z",
-      "id": 3
+      "tech": "Bob Jones",
+      "date": "2020-06-06T02:10:00.058Z"
     }
   ],
   "techs": [
